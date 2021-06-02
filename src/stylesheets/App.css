@@ -1,0 +1,34 @@
+.card__background {
+  width: 700px;
+  height: 780px;
+  background-color: rgb(190, 168, 197);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.card_container {
+  width: 630px;
+  height: 700px;
+  background-color: white;
+  padding: 15px 15px;
+}
+
+.card__image {
+  width: 90px;
+  height: 90px;
+}
+
+.card__title {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.card__plus {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+}
